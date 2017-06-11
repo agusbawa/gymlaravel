@@ -1,0 +1,24 @@
+{
+  "name": "reGym",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Franky So <frankyso.mail@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-kit": "^1.1.0",
+    "font-awesome-sass": "^4.6.2",
+    "hammerjs": "hammer.js#^2.0.8",
+    "script-loader": "^2.0.0",
+    "Waves": "waves#^0.7.5"
+  }
+}
